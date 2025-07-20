@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Automating daily sales and customer data pipelines using **Azure Data Factory**, **Azure SQL Database**, and **Blob Storage**]((https://github.com/SamratashokAK))
 
-- 🌱 I’m currently learning ****Databricks**, **Azure Synapse Analytics**, and more advanced **Data Modeling** concepts to handle big data pipelines.**
+- 🌱 I’m currently learning ****Databricks**, **Azure Synapse Analytics**, and more advanced **Data Modeling** concepts to handle data pipelines.**
 
 - 👯 I’m looking to collaborate on [Real-world Data Engineering Projects** — ETL/ELT pipelines, data automation, or cloud data solutions.]([Check my Projects](https://github.com/SamratashokAK))
 
